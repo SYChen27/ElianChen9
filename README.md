@@ -1,4 +1,4 @@
-# Hi, I'm Elian 👋
+# Hi, I'm Janet 👋
 
 I work with data: cleaning it, modelling it, and turning it into something people can act on. My background is in computer science with a focus on data science, and I'm always up for collaborating on data or software projects.
 
