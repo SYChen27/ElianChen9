@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElianChen9
+- 👋 Hi, I’m @SYChen27
 - 👀 I’m interested in data science projects
 - 🌱 I’m currently learning computer science specializing in data science
 - 💞️ I’m looking to collaborate on data science or software projects
