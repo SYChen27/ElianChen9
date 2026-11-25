@@ -1,4 +1,4 @@
-# Hi, I'm Janet 👋
+# Hi, I'm Janet Chen 👋
 
 I work with data: cleaning it, modelling it, and turning it into something people can act on. My background is in computer science with a focus on data science, and I'm always up for collaborating on data or software projects.
 
@@ -6,9 +6,9 @@ I work with data: cleaning it, modelling it, and turning it into something peopl
 
 | Project | What it does |
 | --- | --- |
-| [project-one](https://github.com/ElianChen9/project-one) | One-line summary of the problem and the result. |
-| [project-two](https://github.com/ElianChen9/project-two) | One-line summary of the problem and the result. |
-| [project-three](https://github.com/ElianChen9/project-three) | One-line summary of the problem and the result. |
+| [project-one](https://github.com/SYChen27/project-one) | One-line summary of the problem and the result. |
+| [project-two](https://github.com/SYChen27/project-two) | One-line summary of the problem and the result. |
+| [project-three](https://github.com/SYChen27/project-three) | One-line summary of the problem and the result. |
 
 ## Tech stack
 
@@ -23,4 +23,4 @@ I work with data: cleaning it, modelling it, and turning it into something peopl
 ## Get in touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shookyoong98@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ElianChen9)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SYChen27)
