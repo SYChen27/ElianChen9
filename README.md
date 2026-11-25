@@ -33,4 +33,4 @@ I focus on turning complex AI capabilities into scalable, practical business sol
 
 ### 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-shookyoong98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shookyoong98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janet-chen-40733721b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janet%20Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janet-chen-40733721b/)
